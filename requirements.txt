@@ -296,7 +296,6 @@ pyvista
 pyvista-xarray
 pyviz-comms
 PyWavelets
-pywinpty
 PyYAML
 pyzmq
 QDarkStyle
