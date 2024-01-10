@@ -7,3 +7,4 @@ tensorflow.keras
 flask
 werkzeug.utils
 gevent.pywsgi
+h5py
