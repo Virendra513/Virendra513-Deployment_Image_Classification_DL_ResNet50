@@ -51,7 +51,6 @@ clyent
 colorama
 colour
 comm
-conda
 conda-build
 conda-content-trust
 conda-package-handling
