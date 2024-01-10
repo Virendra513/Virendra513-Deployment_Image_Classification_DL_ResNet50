@@ -216,6 +216,7 @@ notebook
 notebook_shim
 numpy
 numpydoc
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1' 
 oauthlib
 open3d
 opencv-python
