@@ -328,8 +328,6 @@ segmentation-models
 Send2Trash
 sip
 six
-sklearn
-sklearn-crfsuite
 smart-open
 sniffio
 snowballstemmer
