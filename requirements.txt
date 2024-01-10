@@ -355,12 +355,7 @@ tabulate
 tangled-up-in-unicode
 tenacity
 tensorboard
-tensorboard-data-server
-tensorboard-plugin-wit
 tensorflow
-tensorflow-estimator
-tensorflow-intel
-tensorflow-io-gcs-filesystem
 termcolor
 terminado
 text-unidecode
