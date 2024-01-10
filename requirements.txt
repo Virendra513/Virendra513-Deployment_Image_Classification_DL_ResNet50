@@ -275,7 +275,6 @@ PyQt5-sip
 PyQtWebEngine
 pyreadline
 pyrsistent
-pip install --upgrade pip
 pyshp
 PySocks
 pystackreg
