@@ -393,7 +393,6 @@ uc-micro-py
 ujson
 Unidecode
 uritemplate
-urllib3
 urwid
 valuedispatch
 vedo
