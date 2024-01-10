@@ -80,7 +80,6 @@ easydict
 eerepr
 efficientnet
 emoji
-en-core-web-sm 
 entrypoints
 exceptiongroup
 executing
