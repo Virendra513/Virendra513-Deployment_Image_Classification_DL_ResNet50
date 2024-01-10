@@ -193,7 +193,6 @@ matplotlib
 matplotlib-inline
 mccabe
 mdit-py-plugins
-mdurl
 menuinst
 mglearn
 mistune
