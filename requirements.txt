@@ -269,7 +269,6 @@ pyntcloud
 pyOpenSSL
 pyparsing
 pyperclip
-pyproj
 PyQt5
 PyQt5-sip
 PyQtWebEngine
