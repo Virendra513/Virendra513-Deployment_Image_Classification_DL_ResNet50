@@ -264,7 +264,6 @@ Pygments
 PyJWT
 pylint
 pylint-venv
-pyls-spyder0
 PyNaCl
 pyntcloud
 pyOpenSSL
