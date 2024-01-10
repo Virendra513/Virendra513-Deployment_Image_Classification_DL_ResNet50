@@ -216,6 +216,7 @@ notebook
 notebook_shim
 numpy
 numpydoc
+os.environ['TF_CPP_MIN_LOG_LEVEL'] == '1' 
 oauthlib
 open3d
 opencv-python
@@ -269,6 +270,7 @@ pyntcloud
 pyOpenSSL
 pyparsing
 pyperclip
+pyproj
 PyQt5
 PyQt5-sip
 PyQtWebEngine
@@ -296,8 +298,6 @@ pyvista
 pyvista-xarray
 pyviz-comms
 PyWavelets
-PyYAML
-pyzmq
 QDarkStyle
 qstylizer
 QtAwesome
@@ -329,8 +329,6 @@ segmentation-models
 Send2Trash
 sip
 six
-sklearn
-sklearn-crfsuite
 smart-open
 sniffio
 snowballstemmer
@@ -358,12 +356,7 @@ tabulate
 tangled-up-in-unicode
 tenacity
 tensorboard
-tensorboard-data-server
-tensorboard-plugin-wit
 tensorflow
-tensorflow-estimator
-tensorflow-intel
-tensorflow-io-gcs-filesystem
 termcolor
 terminado
 text-unidecode
@@ -396,7 +389,6 @@ uc-micro-py
 ujson
 Unidecode
 uritemplate
-urllib3
 urwid
 valuedispatch
 vedo
