@@ -205,7 +205,6 @@ munkres
 murmurhash
 mypy-extensions
 namex
-navigator-updater
 nbclassic
 nbclient
 nbconvert
